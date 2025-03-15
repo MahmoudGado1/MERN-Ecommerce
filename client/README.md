@@ -13,11 +13,11 @@ A fully responsive Ecommerce built with **React.js**.
 
 ## 🖼️ Screenshots
 
-![ecommerce Screenshot](/public/ecommerce.PNG)  
-![ecommerce Screenshot](/public/3.PNG)  
-![ecommerce Screenshot](/public/2.PNG)  
-![ecommerce Screenshot](/public/4.PNG)  
-![ecommerce Screenshot](/public/5.PNG)  
+![ecommerce Screenshot](/public/assets/ecommerce.PNG)  
+![ecommerce Screenshot](/public/assets/3.PNG)  
+![ecommerce Screenshot](/public/assets/2.PNG)  
+![ecommerce Screenshot](/public/assets/4.PNG)  
+![ecommerce Screenshot](/public/assets/5.PNG)  
 ## 🛠️ Run Locally
 
 Follow these steps to set up the project on your local machine:
